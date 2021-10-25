@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Dial timeout="10" record="true">+917596035307</Dial>
+<Play>http://vibconnect.io/vibconnect/intro-vibtree.mp3</Play>
 </Response>
